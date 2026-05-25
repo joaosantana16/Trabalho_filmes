@@ -57,7 +57,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
 
-<h1>🎬 CineScore</h1>
+<h1>CineScore</h1>
 <h2>Recuperar senha</h2>
 
 <?php if ($erro): ?>

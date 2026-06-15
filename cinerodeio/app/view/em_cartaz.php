@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../../model/Filme.php';
+require_once __DIR__ . '/../model/Filme.php';
 $filmeModel = new Filme();
 $filmes = $filmeModel->listarTodos();
 ?>
